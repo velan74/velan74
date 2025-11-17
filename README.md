@@ -1,50 +1,35 @@
-# 👋 Hi, I'm Velan K
 
-🎓 I'm a BCA graduate from East Point College of Higher Education, Bangalore, with a strong foundation in computer applications and a passion for continuous learning.
+# Velan K
+### Web Developer
 
----
-
-## 🧰 Skills
-
-- Communication Skills  
-- Basic Tech Skills  
-- Time Management  
-- Flexibility  
-- Creativity  
+📍 Bangalore  
+📞 +91 6381587256  
+📧 velanvels1125@gmail.com  
+🔗 [LinkedIn](https://your-link-here)
 
 ---
 
-## 🌐 Languages
-
-- **English** – Read, Write, Speak  
-- **Tamil** – Read, Write, Speak  
-- **Kannada** – Speak  
+## 👨‍💻 About Me
+Recent graduate with strong skills in **HTML, CSS, JavaScript, React.js** and **Node.js**. Passionate about building clean and responsive web applications.
 
 ---
 
-## 📍 Location
-
-Bengaluru, India  
-
----
-
-## 📫 Get in Touch
-
-- 📱 **Mobile:** +91-6381587256  
-- 📧 **Email:** [velsvelan08@gmail.com](mailto:velsvelan08@gmail.com)
+## 🛠️ Skills
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), Python  
+- **Frontend:** React.js, Bootstrap 5  
+- **Backend:** Node.js, Express.js  
+- **Tools:** Git, GitHub  
 
 ---
 
-## 📚 Education
-
-### Bachelor of Computer Applications (BCA)  
-**East Point College of Higher Education, Bangalore**  
-📈 Score: 77%
-
-### Schooling  
-- **Class XII** – Tamil Nadu Board (2020) – 63%  
-- **Class X** – Tamil Nadu Board (2018) – 93%
+## 🧪 Projects
+### Online Car Rental Web Application  
+- Built frontend UI with HTML, CSS, JS  
+- Implemented booking flow & login functionality  
+- Integrated REST APIs for booking and authentication  
+- Responsive and mobile-friendly design  
 
 ---
 
-Thanks for visiting my profile! 😊
+## 📄 Resume  
+👉 [**Click here to view my resume**](Resume.pdf)
