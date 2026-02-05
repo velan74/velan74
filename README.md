@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prashanth R 👋</h1>
+<h1 align="center">Hi, I'm Velan K👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=900&color=00A8FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+JavaScript+Engineer;Building+Responsive+Web+Interfaces" />
@@ -57,16 +57,16 @@ Eager to contribute to collaborative development teams and grow in a fast-paced,
 ## 🌐 Portfolio & Links
 
 <p align="center">
-  <a href="mailto:prashanthramesh.02@gmail.com">
+  <a href="mailto:velanvels1125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prashanth2005r">
+  <a href="https://www.linkedin.com/in/velan1712k/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://prashanthramesh.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Prashanth2025">
+  <a href="https://github.com/velan74">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
